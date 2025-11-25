@@ -35,9 +35,3 @@ We are constantly working to improve this widget. The main priority for the next
 [ ] Font and Color customization picker.
 
 [ ] executable (.exe) release for non-Python users.
-
-
-
-📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
